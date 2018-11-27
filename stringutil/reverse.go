@@ -1,4 +1,4 @@
-// Package stringutil contains utility functions for working with strings.
+// Package stringutil contains utility functions for working with strings.f
 package stringutil
 
 func Reverse (s string) string {
